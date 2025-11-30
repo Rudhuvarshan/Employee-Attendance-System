@@ -1,0 +1,20 @@
+# Node (backend)
+node_modules/
+
+# Environment
+.env
+
+# Logs
+npm-debug.log*
+*.log
+logs/
+
+# Build / output
+dist/
+build/
+coverage/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

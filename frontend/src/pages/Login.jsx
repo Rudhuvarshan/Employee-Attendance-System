@@ -21,7 +21,7 @@ export default function Login() {
   return (
     <div style={styles.container}>
       <div style={styles.card}>
-        <h2 style={styles.heading}>Welcome back 👋</h2>
+        <h2 style={styles.heading}>Welcome back </h2>
         <form onSubmit={onSubmit} style={styles.form}>
           <input style={styles.input} placeholder="Email" value={form.email} onChange={(e)=>setForm({...form,email:e.target.value})} />
           <input style={styles.input} type="password" placeholder="Password" value={form.password} onChange={(e)=>setForm({...form,password:e.target.value})} />

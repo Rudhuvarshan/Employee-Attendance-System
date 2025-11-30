@@ -12,7 +12,7 @@ export default function Navbar() {
   return (
     <nav style={styles.nav}>
       <div style={styles.left}>
-        <Link to="/" style={styles.brand}>✨ EAS</Link>
+        <Link to="/" style={styles.brand}>Employee Attendance System</Link>
         {user?.role === 'employee' && (
           <>
             <Link to="/employee/dashboard" style={styles.link}>Dashboard</Link>
