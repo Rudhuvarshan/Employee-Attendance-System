@@ -1,3 +1,11 @@
+Details
+Name:Rudhuvarshan R
+Contact:6382797640
+College:SNS College of Engineering
+Gmail:rudhuvarshanr@gmail.com
+
+
+
 # Employee-Attendance-System
 
 📅 A comprehensive Employee Attendance Management System built with MERN stack
@@ -399,5 +407,6 @@ Distributed under the MIT License. See LICENSE for more information.
 - GitHub: [@Rudhuvarshan](https://github.com/Rudhuvarshan)
 
 ## 📞 Support
+
 
 For support, email your_email@example.com or open an issue on GitHub.
